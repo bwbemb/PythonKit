@@ -30,3 +30,7 @@
 xcuserdata/
 *.xcscmblueprint
 *.xccheckout
+
+# Claude
+.claude/
+CLAUDE.md
